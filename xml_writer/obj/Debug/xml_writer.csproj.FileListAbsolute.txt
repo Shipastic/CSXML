@@ -1,0 +1,19 @@
+c:\users\юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csprojAssemblyReference.cache
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.cache
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.CoreCompileInputs.cache
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+D:\Shipelov\Личное\Учеба\Kanunova\ООП\Семестр_4\project\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
